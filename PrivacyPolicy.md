@@ -1,12 +1,56 @@
-## Galaxy Max Hz Donation Privacy Policy
+# Real-time Display FPS Privacy Policy
 
-It is tribalfs' policy to respect your privacy regarding any information we may collect  thru our products and services.   This Privacy Policy applies to Galaxy Max Hz Donation app (hereinafter,  "This  App").  
+Last updated: January 06, 2024
 
-We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on this App and how we use this information.   If you choose to use this App, then you agree to the collection and use of information in relation to this policy. 
+It is tribalfs' policy to respect your privacy regarding any information we may collect thru our
+products and services. This Privacy Policy applies to  ``Real-time Display FPS`` app
+published in Google Play Store (hereinafter,  "This App").
 
+We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected
+on this App and how we use this information. If you choose to use this App, then you agree to the
+collection and use of information in relation to this policy.
 
 ### Information Collection and Use
 
-We may collect information relating to your device and is solely use for server-side validation of your in-app purchase.  We are not sharing this information with anyone.
+This App includes Google Mobile Ads Sdk.
 
-This app does not collect any personal information.
+#### Data collected and shared automatically
+
+The Google Mobile Ads SDK collects and shares the following data types automatically for
+advertising, analytics, and fraud prevention purposes.
+
+| Data	By default                 | the Google Mobile Ads SDK...                                                                                                                 |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| IP address                      | Collects device's IP address, which may be used to estimate the general location of a device.                                                |
+| User product interactions	      | Collects user interactions and interaction information, including app launch, taps, and video views.                                         |
+| Diagnostic information	         | Collects information related to the performance of This App and the SDK, including crash logs, app launch time, hang rate, and energy usage. |
+| Device and Account identifiers	 | Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.         |
+
+All of the user data collected by Google Mobile Ads SDK is encrypted in transit using the Transport
+Layer Security (TLS) protocol.
+
+#### Data handling
+
+Android ad ID collection by Google Mobile Ads Sdk is optional. The ad ID can be reset or deleted by
+users using ad ID controls in the Android settings menu.
+
+Certain other features in the Google Mobile Ads SDK, such as the Limited Ads feature, may also
+disable transmission of the ad ID and other data.
+
+#### Changes to this privacy policy
+
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the
+new Privacy Policy on this page and update the &quot;Last updated&quot; date at the top of this
+Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy
+Policy are effective when they are posted on this page.
+
+#### Contact Us
+
+<p>If you have any questions about this Privacy Policy, You can contact us:</p>
+<ul>
+<li>By email: tribalfs@gmail.com</li>
+</ul>
+
+
